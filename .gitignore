@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.example
+*.egg-info/
+.pytest_cache/
+
+# Node
+node_modules/
+.next/
+out/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+
+# Docker
+postgres_data/
+redis_data/
+
+# Uploads
+backend/uploads/
+
+#.md files 
+AGENT*.md
+AGENT_new.md
+AI_MEMORY_REPORT.md
+BEFORE_AFTER.md
+BUGS_AND_GAPS.md
+CODEBASE_CLEANUP_REPORT.md
+CRITICAL_FIXES_REPORT.md
+DEPLOYMENT_REPORT.md
+FEATURE_STATUS.md
+FINAL_STATUS_REPORT.md
+IMPLEMENTATION_ROADMAP.md
+PRD.md
+PRIORITY_COMPLETION_REPORT.md
+PRODUCT_IMPROVEMENTS.md
+PROGRESS_SUMMARY.md
+PROJECT_CONTEXT.md
+UI_AUDIT.md
+UI_ENHANCEMENT_REPORT.md
